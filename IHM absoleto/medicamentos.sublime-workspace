@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"BA",
+				"background"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"co",
+				"conteiner"
+			],
+			[
+				"FL",
+				"flex-direction"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"da",
+				"darkgrey"
+			],
+			[
+				"bla",
+				"black"
+			],
+			[
+				"gr",
+				"darkgray"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"about",
+				"about-us"
+			],
+			[
+				"H",
+				"h1"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"al",
+				"alimentosnofrigorifico"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"sai",
+				"saibarelax"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"c",
+				"combatastress3"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"corn",
+				"cornsilk"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"me",
+				"medicamentos"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"r",
+				"href"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"f",
+				"footer"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"ora",
+				"olivedrab"
+			],
+			[
+				"blu",
+				"blue"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"br",
+				"rosybrown"
+			],
+			[
+				"gre",
+				"seagreen"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"mai",
+				"maior"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"v",
+				"vSalarios"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"fa",
+				"final"
+			],
+			[
+				"for",
+				"fore\tfor (each)"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"FO",
+				"form"
+			],
+			[
+				"num",
+				"num3"
+			],
+			[
+				"nu",
+				"num3"
+			],
+			[
+				"S",
+				"showInputDialog"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "body {\n    font-family: Arial, #747474;\n    margin: 0;\n    padding: 0;\n    background-color: white;\n}\n\n/*incicio do cabecalho*/\nheader {\n    background-color:  #008eaa;\n    padding: 30px;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n}\n\n.logo img {\n    height: 90px;\n}\n\n.search-bar {\n    display: flex;\n    align-items: center;\n}\n\n.search-bar input[type=\"text\"] {\n    padding: 8px;\n    width: 200px;\n    border: 1px solid #ccc;\n    border-radius: 5px 0 0 5px;\n}\n\n.search-bar button {\n    padding: 8px 15px;\n    background-color: #4CAF50;\n    color: white;\n    border: none;\n    border-radius: 0 5px 5px 0;\n    cursor: pointer;\n}\n\n.user-actions a,\n.social-icons a {\n    text-decoration: none;\n    color: #333;\n    margin-left: 20px;\n}\n\n.social-icons a {\n    margin-left: 10px;\n}\n.drug{\n    height: 100%;\n}\n\n.menu ul {\n    list-style-type: none;\n    margin: 0;\n    padding: 0;\n    display: flex;\n}\n\n.menu ul li {\n    margin-right: 20px;\n}\n\n.menu ul li:last-child {\n    margin-right: 0;\n}\n\n.menu ul li a {\n    text-decoration: none;\n    color: #333;\n    padding: 8px;\n}\n\n.user-actions a {\n    text-decoration: none;\n    color: #333;\n    margin-left: 20px;\n}\nabout-us {\n    display: flex;\n    align-items: center;\n    justify-content: space-around;\n    padding: 20px;\n}\n\n.about-content {\n    max-width: 600px;\n}\n\n.about-content h1 {\n    color: #333;\n    font-size: 24px;\n    margin-bottom: 10px;\n}\n\n.about-content p {\n    color: blanchedalmond;\n    font-size: 16px;\n    line-height: 1.6;\n    margin-left: 20px; /* Espaçamento entre a imagem e o texto */\n}\n\n.drug {\n    width: 45%;\n    height: auto;\n}\n\n.bem-estar {\n    display: flex;\n    align-items: center;\n    justify-content: space-around;\n}\n\n.bem-estar .compri {\n    width: 45%; /\n    height: auto;\n    margin-right: 20px; /* Espaçamento entre a imagem e o texto */\n}\n\n.bem-estar .texto {\n    max-width: 600px;\n}\n\n.bem-estar .texto h3 {\n    font-size: 16px;\n    color: #333;\n}\n\n.bem-estar .texto h1 {\n    font-size: 24px;\n    margin-bottom: 10px;\n}\n\n.bem-estar .texto p {\n    font-size: 18px;\n    color: blanchedalmond;\n}\n\n/* fim cabecalho*/\n\n\n\n\n\n.container {\n    position: relative;\n    width: 100%; /* Defina a largura desejada para a imagem */\n}\n\n.container img {\n    display: block;\n    width: 100%;\n    height: auto;\n}\n\n.container h1 {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    color: white; /* Cor do texto */\n    text-align: center;\n}\n\n\n\n\n\n\n\n\n\n\n\n/* Estilo para a div .atencao */\n.atencao {\n    background-color: #ffcccc; /* Cor de fundo vermelha */\n    border: 1px solid #ff0000; /* Borda vermelha */\n    padding: 2Opx; /* Espaçamento interno */\n    text-align: center; /* Centralizar o texto */\n    margin-top: 10px; /* Espaço superior */\n}\n\n/* Estilo para o texto dentro de .atencao */\n.atencao h3 {\n    color: #ff0000; /* Cor do texto vermelha */\n    font-size: 16px; /* Tamanho da fonte */\n}\n\n\n\n\n\n\nmain {\n    display: grid;\n    grid-template-columns: repeat(3, 1fr); /* Distribui o conteúdo em três colunas iguais */\n    \n}\n\n.categoria {\n    border: 0px solid #ccc; /* Adiciona uma borda para separar visualmente as categorias */\n    padding: 10px; \n}\n\n.categoria p {\n    font-weight: bold; \n}\n\n.categoria ul {\n    margin: 0; /* Remove o espaçamento padrão da lista */\n    padding: 0; /* Remove o espaçamento interno padrão da lista */\n}\n\n.categoria ul li {\n    list-style-type: none; /* Remove os marcadores padrão da lista */\n    padding-left: 20px; /* Adiciona um recuo aos itens da lista */\n}\n\n\n\n\n\n\n\n\n\n\n\n\n.content {\n    max-width: 600px;\n    margin: 0 auto;\n    padding: 20px;\n}\n\n.content h2 {\n    color: #333; /* Cor do título */\n    font-size: 24px;\n    margin-bottom: 10px;\n}\n\n.content p {\n    color: #666; /* Cor do texto */\n    font-size: 16px;\n    line-height: 1.6;\n    margin-bottom: 15px;\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/*rodape*/\n\nfooter {\n    background-color: #008eaa;\n    padding: 20px;\n}\n\n.footer-links {\n    display: flex;\n    justify-content: space-between;\n}\n\n.footer-column {\n    flex: 1;\n    margin-right: 20px;\n}\n\n.footer-column h3 {\n    color: #333;\n    font-size: 18px;\n    margin-bottom: 10px;\n}\n\n.footer-column ul {\n    list-style-type: none;\n    padding: 0;\n}\n\n.footer-column ul li {\n    margin-bottom: 5px;\n    font-size: 14px;\n}\n\n.footer-column ul li a {\n    text-decoration: none;\n    color: #333;\n}\n\n.footer-column ul li a i {\n    margin-right: 5px;\n}\n\n/* responsividade */\n@media screen and (max-width: 768px) {\n    .logo img {\n        height: 40px;\n    }\n\n    .search-bar input[type=\"text\"] {\n        width: 100%;\n    }\n\n    .search-bar button {\n        padding: 8px;\n    }\n\n    .menu ul li {\n        font-size: 14px;\n    }\n\n    .user-actions a {\n        margin-left: 10px;\n    }\n}\n\n@media screen and (max-width: ",
+			"file": "estilos/estilostock.css",
+			"file_size": 5180,
+			"file_write_time": 133602964837559291,
+			"settings":
+			{
+				"buffer_size": 4797,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					13,
+					"left_delete",
+					null,
+					"DQAAAJYMAAAAAAAAlgwAAAAAAAABAAAAL5UMAAAAAAAAlQwAAAAAAAABAAAAKpQMAAAAAAAAlAwAAAAAAAABAAAAIJMMAAAAAAAAkwwAAAAAAAABAAAAb5IMAAAAAAAAkgwAAAAAAAABAAAAbpEMAAAAAAAAkQwAAAAAAAABAAAAcpAMAAAAAAAAkAwAAAAAAAABAAAAZY8MAAAAAAAAjwwAAAAAAAABAAAAdI4MAAAAAAAAjgwAAAAAAAABAAAAbo0MAAAAAAAAjQwAAAAAAAABAAAAaYwMAAAAAAAAjAwAAAAAAAABAAAAIIsMAAAAAAAAiwwAAAAAAAABAAAAb4oMAAAAAAAAigwAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAlwwAAAAAAACXDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					11,
+					"left_delete",
+					null,
+					"CwAAAIkMAAAAAAAAiQwAAAAAAAABAAAAbogMAAAAAAAAiAwAAAAAAAABAAAAZYcMAAAAAAAAhwwAAAAAAAABAAAAbYYMAAAAAAAAhgwAAAAAAAABAAAAYYUMAAAAAAAAhQwAAAAAAAACAAAAw6eEDAAAAAAAAIQMAAAAAAAAAQAAAGGDDAAAAAAAAIMMAAAAAAAAAQAAAHCCDAAAAAAAAIIMAAAAAAAAAQAAAHOBDAAAAAAAAIEMAAAAAAAAAQAAAEWADAAAAAAAAIAMAAAAAAAAAQAAACB/DAAAAAAAAH8MAAAAAAAAAQAAACo",
+					"AQAAAAAAAAABAAAAigwAAAAAAACKDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAH4MAAAAAAAAfgwAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAfwwAAAAAAAB/DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKgMAAAAAAAAqAwAAAAAAAAvAAAALyogVG9ybmEgb3MgdMOtdHVsb3MgZGUgY2F0ZWdvcmlhIGVtIG5lZ3JpdG8gKi8",
+					"AQAAAAAAAAABAAAA1gwAAAAAAACoDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\nco"
+					},
+					"BAAAAPANAAAAAAAA8Q0AAAAAAAAAAAAA8Q0AAAAAAAD1DQAAAAAAAAAAAAD1DQAAAAAAAPYNAAAAAAAAAAAAAPYNAAAAAAAA9w0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8A0AAAAAAADwDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert_completion",
+					{
+						"completion": "color: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "color"
+					},
+					"AgAAAPUNAAAAAAAA9Q0AAAAAAAACAAAAY2/1DQAAAAAAAP0NAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9w0AAAAAAAD3DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "gr"
+					},
+					"AgAAAPwNAAAAAAAA/Q0AAAAAAAAAAAAA/Q0AAAAAAAD+DQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/A0AAAAAAAD8DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "gray",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "gray"
+					},
+					"AgAAAPwNAAAAAAAA/A0AAAAAAAACAAAAZ3L8DQAAAAAAAAAOAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/g0AAAAAAAD+DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					4,
+					"left_delete",
+					null,
+					"BAAAAP8NAAAAAAAA/w0AAAAAAAABAAAAef4NAAAAAAAA/g0AAAAAAAABAAAAYf0NAAAAAAAA/Q0AAAAAAAABAAAAcvwNAAAAAAAA/A0AAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "ye"
+					},
+					"AgAAAPwNAAAAAAAA/Q0AAAAAAAAAAAAA/Q0AAAAAAAD+DQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/A0AAAAAAAD8DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert_completion",
+					{
+						"completion": "yellow",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "yellow"
+					},
+					"AgAAAPwNAAAAAAAA/A0AAAAAAAACAAAAeWX8DQAAAAAAAAIOAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/g0AAAAAAAD+DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					6,
+					"left_delete",
+					null,
+					"BgAAAPoNAAAAAAAA+g0AAAAAAAABAAAAOvkNAAAAAAAA+Q0AAAAAAAABAAAAcvgNAAAAAAAA+A0AAAAAAAABAAAAb/cNAAAAAAAA9w0AAAAAAAABAAAAbPYNAAAAAAAA9g0AAAAAAAABAAAAb/UNAAAAAAAA9Q0AAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAA+w0AAAAAAAD7DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAPUNAAAAAAAA9g0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9Q0AAAAAAAD1DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUNAAAAAAAA9Q0AAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAA9g0AAAAAAAD2DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "bl"
+					},
+					"AgAAAPUNAAAAAAAA9g0AAAAAAAAAAAAA9g0AAAAAAAD3DQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9Q0AAAAAAAD1DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPYNAAAAAAAA9g0AAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAA9w0AAAAAAAD3DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAPYNAAAAAAAA9w0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9g0AAAAAAAD2DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert_completion",
+					{
+						"completion": "background-color:$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "background-color"
+					},
+					"AgAAAPUNAAAAAAAA9Q0AAAAAAAACAAAAYmH1DQAAAAAAAAYOAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9w0AAAAAAAD3DQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAQOAAAAAAAABA4AAAAAAAABAAAAcgMOAAAAAAAAAw4AAAAAAAABAAAAbwIOAAAAAAAAAg4AAAAAAAABAAAAbAEOAAAAAAAAAQ4AAAAAAAABAAAAbwAOAAAAAAAAAA4AAAAAAAABAAAAY/8NAAAAAAAA/w0AAAAAAAABAAAALQ",
+					"AQAAAAAAAAABAAAABQ4AAAAAAAAFDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					3,
+					"left_delete",
+					null,
+					"AwAAAPQNAAAAAAAA9A0AAAAAAAAUAAAAIGJhY2tncm91bmQ6IHllbGxvdzvxDQAAAAAAAPENAAAAAAAAAwAAACAgIPANAAAAAAAA8A0AAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAACA4AAAAAAAD0DQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos"
+	],
+	"file_history":
+	[
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilostock.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/stock.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estiloindex.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilohigiene_pessoal.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilomenu.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/importaciamaca.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/higienepessoal.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/combataostress.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/beleza.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/bebes_chupetas.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/alimentosnofrigorifico.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/medicamentos.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/saude e bem-estar.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/saibarelaxar.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/rodape.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/menu.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilomenu.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilobeleza.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/rodape.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilosaude_bem_estar.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/alimentosnofrigorifico.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/saibarelaxar.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/bebes_chupetas.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/importaciamaca.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/combataostress.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/bebes_chupetas.ht",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/estilos/estilomedicamentos.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM absoleto/image/medicamentosimg.jpg",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/Interação Homem Maquina/estilos/estiloindex.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/Interação Homem Maquina/index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/Interação Homem Maquina/proj1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/Interação Homem Maquina/projetos/proj1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilolayout.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/test2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/layout.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilotest2.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilotest.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/test1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilo.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/inline_style.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/inline_style.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/contacto.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projecto1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/image/fundo.png",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/index1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projfinal.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/finalproj/index.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Recurssividade.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExerVetor1.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExerVetor6e7.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/IntersecaoUniao.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExemploVector.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/site sketchpad.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExemploArray.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/index0.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/styles1.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/estiloprojectoweb.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/como criar um menu.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11d.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11a.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio12.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11d.class",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio4.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layoutmenu3.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout1.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/style.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/stylist2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/semantica.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/formulario.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/stylist.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/tag img.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/Ola mundo.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/paragrafos e quebras.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/HTML CSS/Ola mundo.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio5.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio3.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio2.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ex.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ola.java"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"darkgrey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "estilos/estilostock.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3568,
+								3568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4307.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "medicamentos.sublime-project",
+	"replace":
+	{
+		"height": 52.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

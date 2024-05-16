@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"f",
+				"footer"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"ora",
+				"olivedrab"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"blu",
+				"blue"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"br",
+				"rosybrown"
+			],
+			[
+				"gre",
+				"seagreen"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"mai",
+				"maior"
+			],
+			[
+				"m",
+				"menor"
+			],
+			[
+				"ma",
+				"maior"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"v",
+				"vSalarios"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"fa",
+				"final"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"for",
+				"fore\tfor (each)"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"FO",
+				"form"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"num",
+				"num3"
+			],
+			[
+				"nu",
+				"num3"
+			],
+			[
+				"S",
+				"showInputDialog"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilolayout.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/test2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/layout.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilotest2.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilotest.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/test1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/estilo.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/inline_style.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projetoscss3/inline_style.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/contacto.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projecto1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/image/fundo.png",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/index1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/projfinal.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM-Curso/03 HTML 5/web/finalproj/index.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Recurssividade.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExerVetor1.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExerVetor6e7.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/IntersecaoUniao.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExemploVector.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/site sketchpad.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ExemploArray.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/index0.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/styles1.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Only Dising CSS/estiloprojectoweb.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/como criar um menu.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11d.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11a.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio12.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio11d.class",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio4.java",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout1.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layoutmenu3.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/layout1.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/style.css",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/stylist2.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/semantica.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/formulario.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/stylist.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/tag img.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/Index.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/Ola mundo.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/IHM/HTML-CSS/EXERCICIOS/paragrafos e quebras.html",
+		"/C/Users/Elizabeth/Cisco Packet Tracer 7.3.0/Desktop/HTML CSS/Ola mundo.html",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio5.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio3.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio2.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/Exercicio.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ex.java",
+		"/C/Users/Elizabeth/Documents/FP2/programaJava/ola.java"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projetos.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

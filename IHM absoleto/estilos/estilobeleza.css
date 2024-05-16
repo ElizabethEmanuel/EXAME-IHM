@@ -1,0 +1,324 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+/*incicio do cabecalho*/
+header {
+    background-color:  #008eaa;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    height: 90px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+}
+
+.search-bar input[type="text"] {
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.search-bar button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.user-actions a,
+.social-icons a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 20px;
+}
+
+.social-icons a {
+    margin-left: 10px;
+}
+.drug{
+    height: 100%;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu ul li {
+    margin-right: 20px;
+}
+
+.menu ul li:last-child {
+    margin-right: 0;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px;
+}
+
+.user-actions a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 20px;
+}
+about-us {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.about-content {
+    max-width: 600px;
+}
+
+.about-content h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-content p {
+    color: blanchedalmond;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-left: 20px; /* Espaçamento entre a imagem e o texto */
+}
+
+.drug {
+    width: 45%;
+    height: auto;
+}
+
+.bem-estar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bem-estar .compri {
+    width: 45%; /
+    height: auto;
+    margin-right: 20px; /* Espaçamento entre a imagem e o texto */
+}
+
+.bem-estar .texto {
+    max-width: 600px;
+}
+
+.bem-estar .texto h3 {
+    font-size: 16px;
+    color: #333;
+}
+
+.bem-estar .texto h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.bem-estar .texto p {
+    font-size: 18px;
+    color: blanchedalmond;
+}
+
+/* banner*/
+.first {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+/* Estilos para a imagem dentro da primeira div */
+.first img {
+    width: 100%; /* Ajusta a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 10px;
+}
+
+/* Estilos para o título h2 dentro da primeira div */
+.first h2 {
+    position: absolute;
+    top: 60px; /* Ajusta a distância do topo conforme necessário */
+    left: 10px; /* Ajusta a distância da esquerda conforme necessário */
+    width: calc(50% - 20px); /* Calcula a largura do título */
+    font-size: 1.5rem;
+    color: black; /* Cor do texto */
+}
+
+/* Estilos para o parágrafo p dentro da primeira div */
+.first p {
+    position: absolute;
+    top: 90px; /* Ajusta a distância do topo conforme necessário */
+    left: 10px; /* Ajusta a distância da esquerda conforme necessário */
+    width: calc(50% - 20px); /* Calcula a largura do texto */
+    font-size: 1sssrem;
+    color: #000; /* Cor do texto */
+}
+
+
+
+
+.produtos {
+    margin: 20px;
+}
+
+.categoria {
+    margin-bottom: 30px;
+}
+
+.produto {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.produto img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.produto p {
+    margin: 10px 0;
+}
+
+.quantidade {
+    margin-top: 10px;
+}
+
+.quantidade label {
+    margin-right: 5px;
+}
+
+.quantidade input {
+    width: 50px;
+}
+
+.quantidade button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.quantidade button:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
+
+.produtos {
+    margin: 20px;
+}
+
+.categoria {
+    margin-bottom: 30px;
+}
+
+.produto {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.produto img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.produto p {
+    margin: 10px 0;
+}
+
+
+
+/*rodape*/
+
+footer {
+    background-color: #008eaa;
+    padding: 20px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-column {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer-column h3 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-column ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-column ul li {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.footer-column ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer-column ul li a i {
+    margin-right: 5px;
+}
+
+/* responsividade */
+@media screen and (max-width: 768px) {
+    .logo img {
+        height: 40px;
+    }
+
+    .search-bar input[type="text"] {
+        width: 100%;
+    }
+
+    .search-bar button {
+        padding: 8px;
+    }
+
+    .menu ul li {
+        font-size: 14px;
+    }
+
+    .user-actions a {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 
